@@ -1,0 +1,17 @@
+# Compile of Lab4step2.v was successful.
+# Compile of multiplexer.v was successful.
+# Compile of normal.v was successful.
+# Compile of powersaving.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.Lab4step2
+# vsim -gui work.Lab4step2 
+# Start time: 15:21:08 on Feb 17,2023
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.Lab4step2(fast)
+force M 0 0, 1 400 -repeat 800
+force P 0 0, 1 200 -repeat 400
+force T 0 0, 1 100 -repeat 200
+force H 0 0, 1 50 -repeat 100
+run 800
+# End time: 15:23:07 on Feb 17,2023, Elapsed time: 0:01:59
+# Errors: 0, Warnings: 12

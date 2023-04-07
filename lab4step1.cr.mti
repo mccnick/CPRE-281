@@ -1,0 +1,8 @@
+U:/CPRE281/Lab04/Verilog1.v {1 {vlog -work work -vopt -stats=none U:/CPRE281/Lab04/Verilog1.v
+QuestaSim-64 vlog 2022.2 Compiler 2022.04 Apr 25 2022
+-- Compiling module lab4
+
+Top level modules:
+	lab4
+
+} {} {}}
