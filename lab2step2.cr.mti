@@ -1,0 +1,8 @@
+U:/CPRE281/lab2/lab2step2/lab2step2.v {1 {vlog -work work -vopt -stats=none U:/CPRE281/lab2/lab2step2/lab2step2.v
+QuestaSim-64 vlog 2022.2 Compiler 2022.04 Apr 25 2022
+-- Compiling module lab2step2
+
+Top level modules:
+	lab2step2
+
+} {} {}}
